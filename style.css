@@ -1,0 +1,33 @@
+body{
+    font-family: 'Pacifico', cursive;
+    background-color:rgb(234, 130, 234);
+}
+#div2{
+    background-color:rgb(232, 188, 188);
+}
+.div1{
+background-color:plum;
+color:rgb(0, 0, 243);
+}
+h4{
+    color:rgb(137, 102, 15);
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+button{
+    width:150px;
+    height: 50px;
+    letter-spacing: 3px;
+    font-size: 150px;
+    font-weight: bolder;
+    font-family:Courier;
+}
+.footer{
+    background-color: beige;
+    color:rgb(55, 29, 59);
+bottom: 0;
+    position:fixed;
+    line-height:3;
+    text-align: center;
+    width:100%;
+}
